@@ -82,7 +82,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 6. RC Private Limited — Sales Dashboard
 > A business sales dashboard with year-wise charts, filters, and customer table.
 
-![RC Private Limited](08_04_2026_20_50_02_REC.png)
+![RC Private Limited](3program.png.png)
 
 - Year-wise bar chart (2024, 2025, 2026)
 - Sales vs profit ratio pie chart
@@ -95,7 +95,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 7. Spotify Wireframe
 > Early-stage wireframe exploring layout structure for a Spotify-style music app.
 
-![Spotify Wireframe](figma_bi.png)
+![Spotify Wireframe](figma bi.png.png)
 
 - Tab navigation: Overview, Artists, Songs
 - Grid-based card layout
