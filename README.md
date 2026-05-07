@@ -58,7 +58,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 4. Uber Dashboard
 > A minimal analytics dashboard for ride tracking with key business metrics.
 
-![Uber Dashboard](1777896626463_uber.png)
+![Uber Dashboard](uber.png.png)
 
 - KPI cards: 97K completed rides, 2.5M km distance, 84M revenue
 - 3 donut charts: completed, cancelled, incomplete rides
