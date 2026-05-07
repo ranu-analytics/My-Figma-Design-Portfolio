@@ -17,7 +17,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 1. EV-B Electric Scooter — Landing Page ⭐ Best
 > A product landing page for an electric scooter brand with live stats display.
 
-![EV Scooter]("C:\Users\ankit patel\Downloads\SCOTY.pmg.png".png)
+![EV Scooter Design](SCOTY_png.png)
 
 - Live vehicle stats: Battery 60%, Range 125 KM, Load 100
 - Speedometer gauge: 100 KM/hr
