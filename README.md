@@ -45,7 +45,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 3. Rxt Tech — Business Dashboard
 > A full business analytics dashboard with revenue, expense, and client data.
 
-![Rxt Tech Dashboard](06_04_2026_19_38_32_REC.png)
+![Rxt Tech Dashboard](2program.png.png)
 
 - KPI cards: Total Revenue $40K, Expense $10K, Profit $30K
 - Area charts for revenue and expense trends
