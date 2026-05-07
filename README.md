@@ -33,7 +33,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 2. CRM Response Dashboard
 > A clean, modern CRM dashboard with lead tracking and response rate analytics.
 
-![CRM Dashboard](crm-response.png)
+![CRM Dashboard](crmresponse.png.png)
 
 - Metric cards: response rate (85%), new leads (21), goal tracker
 - Progress bars and donut goal chart
