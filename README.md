@@ -70,7 +70,7 @@ This repository showcases my Figma design journey — from early wireframe explo
 ### 5. Design Insight Overview (RC)
 > A data insight dashboard comparing Figma, Sketch, XD, PS, and AI tool usage.
 
-![Design Insight](1777896586986_11_04_2026_23_17_04_REC.png)
+![Design Insight](3program.png.png)
 
 - 6-chart layout: area, line, bar, donut
 - Multi-tool comparison across design software
